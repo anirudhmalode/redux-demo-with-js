@@ -1,0 +1,15 @@
+{
+  "name": "anirudh-redux-demo",
+  "version": "1.0.0",
+  "description": "Redux concepts from basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anirudh Malode",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.2.0",
+    "redux-logger": "^3.0.6"
+  }
+}
